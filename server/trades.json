@@ -1,0 +1,16 @@
+[
+  {
+    "buyer": "Alice",
+    "seller": "Bob",
+    "price": 90,
+    "quantity": 5,
+    "timestamp": "2025-03-13T09:49:52.747Z"
+  },
+  {
+    "buyer": "Alice",
+    "seller": "Charlie",
+    "price": 100,
+    "quantity": 5,
+    "timestamp": "2025-03-13T09:50:57.688Z"
+  }
+]
